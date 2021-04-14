@@ -1,8 +1,18 @@
 ul{
+    height: 50px;
     list-style: none;
+    padding-left:0px;
+    line-height: 50px;
+    background-color: darkcyan;
 }
 
 li{
-    float: left;
-    margin-right: 60px;
+  float: left;
+  margin-right: 30px;
+  margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }

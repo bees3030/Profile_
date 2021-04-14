@@ -4,8 +4,7 @@ import './Home.css';
 const Home = () => {
     return(
         <div>
-            <h1>3-2-4</h1>
-            <h2>이예은</h2>
+            <h2>3학년 2반 4번 이예은</h2>
         </div>
     );
 };
